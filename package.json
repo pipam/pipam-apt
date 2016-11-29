@@ -1,0 +1,32 @@
+{
+  "name": "pipam-apt",
+  "version": "1.0.0",
+  "description": "An apt-get plugin for Pipam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests, yet..\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipam/pipam-apt.git"
+  },
+  "keywords": [
+    "pipam",
+    "pipam-plugin",
+    "apt",
+    "apt-get"
+  ],
+  "author": "facekapow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pipam/pipam-apt/issues"
+  },
+  "homepage": "https://github.com/pipam/pipam-apt#readme",
+  "pipam": {
+    "displayName": "apt-get"
+  },
+  "dependencies": {
+    "electron-sudo": "^4.0.7",
+    "then-utils": "^1.5.2"
+  }
+}

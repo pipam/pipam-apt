@@ -1,6 +1,6 @@
 {
   "name": "pipam-apt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An apt-get plugin for Pipam",
   "main": "index.js",
   "scripts": {
